@@ -1,6 +1,10 @@
 # Classification-PB
 Description: 
 
+denuncias_2022: filtered domestic violence reports in the year of 2022
+    PrimeiroSPB: first semester reports
+    SegundoSPB: second semester reports
+
 geojs-25-mun.json: geographic mesh of Paraíba
 
 ibge_censo_cnv_desem114957200_239_72_1: unemployment rate data
