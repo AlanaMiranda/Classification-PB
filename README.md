@@ -12,3 +12,5 @@ main.ipynb: source code of the project
 mapa_interativo.html: interactive map of Paraíba classification in html
 
 Class.pdf: result of the municipalities classification
+
+pb_dataset.xlsx: dataset containing the values of the criteria for each municipality and its classification
