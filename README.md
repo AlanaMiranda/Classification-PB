@@ -1,9 +1,7 @@
 # Classification-PB
 Description: 
 
-denuncias_2022: filtered domestic violence reports in the year of 2022
-    PrimeiroSPB: first semester reports
-    SegundoSPB: second semester reports
+denuncias_2022/VDPB_2022: filtered domestic violence reports in the year of 2022
 
 geojs-25-mun.json: geographic mesh of Paraíba
 
